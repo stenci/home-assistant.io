@@ -17,7 +17,7 @@ You can enable the Cast integration by going to the Integrations page inside the
 
 ## Setup
 
-Support for mDNS discovery in your local network is mandatory. Make sure that your router has this feature enabled. This is even required if you entered the IP addresses of the Cast devices are manually in the configuration as mentioned below.
+Support for mDNS discovery in your local network is mandatory. Make sure that your router has this feature enabled. This is even required if you manually entered the IP addresses of the Cast devices in the configuration as mentioned below.
 
 ## Home Assistant Cast
 
